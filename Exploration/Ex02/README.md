@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 배성렬 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 박주영 : 리뷰어의 이름을 작성하세요.
 
 
 # PRT(Peer Review Template)
